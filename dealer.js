@@ -1,4 +1,5 @@
 var brandlist = new Array("Porsche","Volkswagen","Audi","BMW");
+//comments
 function newClient(){
 	var preference = Math.floor((Math.random()*4));
 	var time = Math.floor((Math.random()*10000)+1);
